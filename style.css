@@ -1,0 +1,38 @@
+ body {
+    font-family: COMIC SANS MS;
+    background: black;
+}
+ h1 ,h2{
+    text-align: center;
+    color: white;
+}
+.hh{
+    background-color: rgb(23, 23, 23);
+    padding: 5px;
+}
+p {
+    text-align: center;
+    color: white;
+}
+img{
+    height:100px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+
+td {
+    border: 2px solid white;
+    color: white;
+}
+footer p{
+    background-color: rgb(64, 63, 63);
+    padding: 5px;
+}
